@@ -1,0 +1,6 @@
+﻿  P1.c
+C:\Users\Алексей\source\repos\Project1\Project1\P1.c(20,36): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\Алексей\source\repos\Project1\Project1\P1.c(21,24): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Алексей\source\repos\Project1\Project1\P1.c(21,16): warning C4024: fopen: различные типы для формального и фактического параметров 1
+C:\Users\Алексей\source\repos\Project1\Project1\P1.c(58,14): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  Project1.vcxproj -> C:\Users\Алексей\source\repos\Project1\Debug\Project1.exe
